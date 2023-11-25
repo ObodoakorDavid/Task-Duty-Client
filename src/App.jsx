@@ -11,7 +11,7 @@ import { Toaster } from "react-hot-toast";
 function App() {
   // const baseURL = "http://localhost:3000";
   const baseURL = "https://task-duty223.onrender.com";
-  
+
   return (
     <>
       <Router>
